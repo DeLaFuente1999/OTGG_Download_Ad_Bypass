@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Overtake Downloader",
+  "version": "1.0",
+  "description": "Redirige la página de Overtake a /download al hacer click en el icono.",
+  "action": {
+    "default_title": "Descargar archivo de Overtake.GG",
+    "default_icon": {
+      "16": "download.png",
+      "32": "download.png",
+      "48": "download.png",
+      "128": "download.png"
+    }
+  },
+  "background": {
+    "service_worker": "popup.js"
+  },
+  "permissions": [
+    "tabs",
+    "notifications"
+  ]
+}
