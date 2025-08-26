@@ -26,3 +26,40 @@ La extension funciona sin necesidad de ningun adblock, dejando que recauden la m
 
 El icono de la aplicacion pertenece a Flaticon
 https://www.flaticon.com/free-icons/download
+
+***
+<br>
+<br>
+<br>
+
+
+# Overtake Downloader Extension
+
+The ads on Overtake.GG are a fair way for them to generate revenue, while we get free content in return. As long as the ads aren’t overly intrusive, that’s perfectly fine. However, I don’t agree with being forced to watch 15-second videos just to download content. Taking advantage of how the download system works, I created this extension that bypasses those ads and lets us download the content directly.
+
+The extension works without needing any adblocker, so the site can still collect revenue from their regular ads — just not from the download ones.
+
+## 🚀 Installation
+
+### OPTION 1
+
+1. Drag the `OTGG_Download_Ad_Bypass.crx` file into Chrome and accept the permissions it asks for (don’t worry, nothing shady is going on even if Chrome warns you — the code is in the repository).
+
+### OPTION 2
+
+1. Clone or download this repository to your PC.
+2. Open Chrome and go to `chrome://extensions/`.
+3. Enable **Developer Mode** (top right corner).
+4. Click on **Load unpacked** and select the project folder.
+5. You’ll see the extension’s icon in your Chrome toolbar.
+
+## 🛠️ Usage
+
+1. Navigate to the main downloads page:
+
+## Licenses
+
+The app icon belongs to Flaticon
+[https://www.flaticon.com/free-icons/download](https://www.flaticon.com/free-icons/download)
+
+---
