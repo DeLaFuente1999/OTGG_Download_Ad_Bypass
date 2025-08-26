@@ -6,6 +6,12 @@ La extension funciona sin necesidad de ningun adblock, dejando que recauden la m
 
 ## 🚀 Instalación
 
+### OPCION 1
+
+1. Arrastra el archivo OTGG_Download_Ad_Bypass.crx a Chrome y acepta los permisos que pide (No hace cosas raras aunque Chrome crea que si, el codigo está en el repositorio)
+
+### OPCION 2
+
 1. Clona o descarga este repositorio en tu PC.
 2. Abre Chrome y entra en `chrome://extensions/`.
 3. Activa el **Modo desarrollador** (arriba a la derecha).
