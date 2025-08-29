@@ -6,12 +6,6 @@ La extension funciona sin necesidad de ningun adblock, dejando que recauden la m
 
 ## 🚀 Instalación
 
-### OPCION 1
-
-1. Arrastra el archivo OTGG_Download_Ad_Bypass.crx a Chrome y acepta los permisos que pide (No hace cosas raras aunque Chrome crea que si, el codigo está en el repositorio)
-
-### OPCION 2
-
 1. Clona o descarga este repositorio en tu PC.
 2. Abre Chrome y entra en `chrome://extensions/`.
 3. Activa el **Modo desarrollador** (arriba a la derecha).
@@ -40,12 +34,6 @@ The ads on Overtake.GG are a fair way for them to generate revenue, while we get
 The extension works without needing any adblocker, so the site can still collect revenue from their regular ads — just not from the download ones.
 
 ## 🚀 Installation
-
-### OPTION 1
-
-1. Drag the `OTGG_Download_Ad_Bypass.crx` file into Chrome and accept the permissions it asks for (don’t worry, nothing shady is going on even if Chrome warns you — the code is in the repository).
-
-### OPTION 2
 
 1. Clone or download this repository to your PC.
 2. Open Chrome and go to `chrome://extensions/`.
