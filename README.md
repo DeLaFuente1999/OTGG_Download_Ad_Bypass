@@ -16,6 +16,12 @@ La extension funciona sin necesidad de ningun adblock, dejando que recauden la m
 
 ### Instalación en Firefox
 
+#### Opción 1
+
+1. Instala el archivo XPI en tu Firefox.
+
+#### Opción 2
+
 1. Clona o descarga este repositorio en tu PC.
 2. Abre Firefox y entra en `about:debugging#/runtime/this-firefox`.
 3. Haz click en **Cargar complemento temporal**.
@@ -57,11 +63,17 @@ The extension works without needing any adblocker, so the site can still collect
 
 ### Installation on Firefox
 
-1. Clone or download this repository to your PC.
-2. Open Firefox and go to `about:debugging#/runtime/this-firefox`.
-3. Click on **Load Temporary Add-on**.
-4. Select the **manifest.json** file inside the project folder.
-5. You’ll see the extension’s icon in the Firefox toolbar (it will only last for the current session; if you close the browser, you’ll need to load it again).
+#### Option 1
+
+1. Install the XPI file on your Firefox.
+
+#### Option 2
+
+2. Clone or download this repository to your PC.
+3. Open Firefox and go to `about:debugging#/runtime/this-firefox`.
+4. Click on **Load Temporary Add-on**.
+5. Select the **manifest.json** file inside the project folder.
+6. You’ll see the extension’s icon in the Firefox toolbar (it will only last for the current session; if you close the browser, you’ll need to load it again).
 
 
 ## 🛠️ Usage
