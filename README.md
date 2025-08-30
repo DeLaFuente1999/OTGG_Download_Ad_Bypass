@@ -6,11 +6,22 @@ La extension funciona sin necesidad de ningun adblock, dejando que recauden la m
 
 ## 🚀 Instalación
 
+### Instalacion en Chrome
+
 1. Clona o descarga este repositorio en tu PC.
 2. Abre Chrome y entra en `chrome://extensions/`.
 3. Activa el **Modo desarrollador** (arriba a la derecha).
 4. Haz click en **Cargar descomprimida** y selecciona la carpeta del proyecto.
 5. Verás el icono de la extensión en la barra de Chrome.
+
+### Instalación en Firefox
+
+1. Clona o descarga este repositorio en tu PC.
+2. Abre Firefox y entra en `about:debugging#/runtime/this-firefox`.
+3. Haz click en **Cargar complemento temporal**.
+4. Selecciona el archivo **manifest.json** dentro de la carpeta del proyecto.
+5. Verás el icono de la extensión en la barra de Firefox (mientras dure la sesión; si cierras el navegador tendrás que volver a cargarla).
+
 
 ## 🛠️ Uso
 
@@ -35,11 +46,23 @@ The extension works without needing any adblocker, so the site can still collect
 
 ## 🚀 Installation
 
+### Installation on Chrome
+
 1. Clone or download this repository to your PC.
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer Mode** (top right corner).
 4. Click on **Load unpacked** and select the project folder.
 5. You’ll see the extension’s icon in your Chrome toolbar.
+
+
+### Installation on Firefox
+
+1. Clone or download this repository to your PC.
+2. Open Firefox and go to `about:debugging#/runtime/this-firefox`.
+3. Click on **Load Temporary Add-on**.
+4. Select the **manifest.json** file inside the project folder.
+5. You’ll see the extension’s icon in the Firefox toolbar (it will only last for the current session; if you close the browser, you’ll need to load it again).
+
 
 ## 🛠️ Usage
 
